@@ -79,17 +79,17 @@ a:focus, a:hover {
 	font-size: 80px;
 	font-family: Raleway;
     font-style: normal;
-    font-weight: 700;
-    padding-bottom: 8px;
+    font-weight: 750;
+    padding-bottom: 10px;
 }
 
 .kl-content .row p {
-	font-size: 16px;
+	font-size: 20px;
 	font-family: Raleway;
 }
 
 .kl-content .row h3, .kl-content .row h4 {
-	font-weight: 600;
+	font-weight: 700;
 	font-family: Raleway;
 	padding-bottom: 5px;
 }
